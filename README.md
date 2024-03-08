@@ -1,4 +1,4 @@
-# CoPace: Edge Computation Offloading and Caching for Self-Driving With Deep Reinforcement Learning
+# DDPG Agent for Edge Computation Offloading and Caching
 This repository is the implementation of the deep reinforcement learning (DRL) agent of Deep Deterministic Policy Gradient (DDPG) proposed in the paper "CoPace: Edge Computation Offloading and Caching for Self-Driving With Deep Reinforcement Learning," in *IEEE Transactions on Vehicular Technology* (2021). This myDDPG.py is a tailored DRL agent and my_env.py is the DRL environment for the CoPace algorithm. The CoPace algorithm is designed to realize the joint computation offloading, content caching, and resources allocation (including computation and communication) for self-driving vehicles in edge computing systems.
 
 ## Quick start
@@ -13,7 +13,7 @@ In the CoPace algorithm, we use two datasets, i.e., telecom datasets [1] in Shan
 
 ## Requirements
 Tensorflow == 1.15.0
-
+Keras == 2.1.5
 Python == 3.7
 
 ## Cite this work

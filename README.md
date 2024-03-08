@@ -13,7 +13,9 @@ In the CoPace algorithm, we use two datasets, i.e., telecom datasets [1] in Shan
 
 ## Requirements
 Tensorflow == 1.15.0
+
 Keras == 2.1.5
+
 Python == 3.7
 
 ## Cite this work

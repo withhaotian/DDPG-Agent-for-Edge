@@ -1,11 +1,3 @@
-# -- coding:utf-8 --
-"""
-    @Time : 2021-08-27 14:56
-    @Author : Hao Tian
-    @File : configs.py
-    @Descriptions : 
-"""
-
 #####################  configuration  ####################
 b = 1
 Kb = 1024

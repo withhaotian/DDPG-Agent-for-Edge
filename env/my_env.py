@@ -1,10 +1,3 @@
-# -- coding:utf-8 --
-"""
-    @Time : 2021-08-27 14:56
-    @Author : Hao Tian
-    @File : my_env.py
-    @Descriptions : 
-"""
 import random
 import numpy as np
 import math

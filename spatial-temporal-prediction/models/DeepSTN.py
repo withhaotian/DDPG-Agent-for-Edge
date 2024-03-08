@@ -1,3 +1,12 @@
+'''
+@article{lin2019deepstn+:,
+title={DeepSTN+: Context-aware Spatial Temporal Neural Network for Crowd Flow Prediction in Metropolis},
+author={Lin, Ziqian and Feng, Jie and Lu, Ziyang and Li, Yong and Jin, Depeng},
+booktitle={Thirty-Thrid AAAI Conference on Artificial Intelligence},
+year={2019}
+}
+'''
+
 from keras import backend as K
 K.set_image_data_format('channels_first')
 import numpy as np

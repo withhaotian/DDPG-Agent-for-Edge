@@ -20,7 +20,7 @@ Python == 3.7
 
 ## Cite this work
 ```bibtex
-@ARTICLE{9580706,
+@ARTICLE{tian2021copace,
   author={Tian, Hao and Xu, Xiaolong and Qi, Lianyong and Zhang, Xuyun and Dou, Wanchun and Yu, Shui and Ni, Qiang},
   journal={IEEE Transactions on Vehicular Technology}, 
   title={CoPace: Edge Computation Offloading and Caching for Self-Driving With Deep Reinforcement Learning}, 
@@ -32,4 +32,4 @@ Python == 3.7
 ```
 
 ## Contact us
-[Hao Tian](https://withhaotian.github.io), Nanjing University, withhaotian [at] gmail.com
+[Hao Tian](https://withhaotian.github.io), Nanjing University, withhaotian [at] gmail [dot] com
